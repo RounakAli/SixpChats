@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462845654434",
+    "project_id": "sixpchat",
+    "storage_bucket": "sixpchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462845654434:android:922a69255b7f56139daefb",
+        "android_client_info": {
+          "package_name": "com.example.sixpchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOgXB418emRDjwVBjoZMEu6EtZA5KLRIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
